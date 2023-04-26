@@ -4,7 +4,7 @@ Este repositorio contiene el código fuente para el curso de Introducción al en
 
 ## Tabla de contenidos
 
-1. [Introducción a Python y Google Colab](Semana_1_1_Introduccion_al_Entorno_de_Programacion.ipynb)
+1. [Modulo 1: Introducción al entorno de programación](Semana_1_1_Introduccion_al_Entorno_de_Programacion.ipynb)
 2. [Mostrando resultados](Semana_1_2_Mostremos_cosas_en_pantalla.ipynb)
 3. [Realizando operaciones](Semana_2_1_Resolviendo_Operaciones.ipynb)
 4. [Almacenando datos con variables y listas](Semana_2_2_Almacenando_con_Variables_y_Listas.ipynb)
